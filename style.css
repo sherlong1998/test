@@ -1,0 +1,15 @@
+.row{
+    max-width: 1140;
+    margin: 0 auto;
+}
+a{
+    position: absolute;
+    background-color: green;
+    padding: 40px;
+    font-size: 40px;
+    color: red;
+    text-align: center;
+    top: 40%;
+    left: 40%;
+    text-decoration: none;
+}
